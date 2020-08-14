@@ -1,4 +1,4 @@
-# Ramone's Bakery & Cafe Website
+# Website for Ramone's Bakery & Cafe
 This project is a collaboration between UX designer [Allison Straus](https://www.allisonstraus.com/) and Web Developer [Natalie Poulson](https://github.com/natalie-poulson). It is still in development. 
 
 ## Built With
