@@ -9,16 +9,16 @@ This project is a collaboration between UX designer [Allison Straus](https://www
 * Responsive Design
 * Custom CSS (contained in this repo)
 
-## Mocks by [Allison Straus](https://www.allisonstraus.com/)
+## Mocks by Allison Straus:
 #### Landing Page
 <img src="./mocks/landingPage.png">
 
+## Website (in development) by Natalie Poulson:
+* http://kgg.vgq.mybluehost.me/
+
 ## Links
 #### Website Design by: 
-* [Allison Straus](https://www.allisonstraus.com/)
-
+* <a href= 'https://www.allisonstraus.com/' target='_blank'>Allison Straus</a>
 #### Website Built by:
 * [Natalie Poulson](https://github.com/natalie-poulson)
 
-#### Website preview (in development):
-* http://kgg.vgq.mybluehost.me/
