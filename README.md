@@ -7,7 +7,7 @@ This project is a collaboration between UX designer [Allison Straus](https://www
 
 ## Features
 * Responsive Design
-* Custom CSS
+* Custom CSS (contained in this repo)
 
 ## Mocks
 
