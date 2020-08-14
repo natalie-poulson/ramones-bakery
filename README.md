@@ -18,7 +18,7 @@ This project is a collaboration between UX designer [Allison Straus](https://www
 
 ## Links
 #### Website Design by: 
-* <a href= 'https://www.allisonstraus.com/' target='_blank'>Allison Straus</a>
+* [Allison Straus](https://www.allisonstraus.com/)
 #### Website Built by:
 * [Natalie Poulson](https://github.com/natalie-poulson)
 
