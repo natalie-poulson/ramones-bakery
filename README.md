@@ -9,7 +9,7 @@ This project is a collaboration between UX designer [Allison Straus](https://www
 * Responsive Design
 * Custom CSS (contained in this repo)
 
-## Mocks by Allison Straus](https://www.allisonstraus.com/
+## Mocks by [Allison Straus](https://www.allisonstraus.com/
 #### Landing Page
 <img src="./mocks/landingPage.png">
 
