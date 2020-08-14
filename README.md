@@ -19,6 +19,6 @@ This project is a collaboration between UX designer [Allison Straus](https://www
 ## Links
 #### Website Design by: 
 * [Allison Straus](https://www.allisonstraus.com/)
-#### Website Built by:
+#### Website by:
 * [Natalie Poulson](https://github.com/natalie-poulson)
 
