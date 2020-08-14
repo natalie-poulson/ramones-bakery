@@ -10,6 +10,8 @@ This project is a collaboration between UX designer [Allison Straus](https://www
 * Custom CSS (contained in this repo)
 
 ## Mocks
+#### Landing Page
+<img src="./mocks/landingPage.png">
 
 ## Links
 #### Website Design by: 
