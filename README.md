@@ -2,12 +2,10 @@
 This project is a collaboration between UX designer [Allison Straus](https://www.allisonstraus.com/) and Web Developer [Natalie Poulson](https://github.com/natalie-poulson). It's still in development. 
 
 ## Built With
-* [WordPress](https://wordpress.org/)
+* [WordPress](https://wordpress.org/) / PHP 
 * [Shimmer theme](https://support.almondandwhite.com/theme-documentation/shimmer-theme/)
+* Additional CSS 
 
-## Features
-* Responsive Design
-* Custom CSS (contained in this repo)
 
 ## Mocks by Allison Straus:
 #### Landing Page
