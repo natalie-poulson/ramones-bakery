@@ -4,7 +4,7 @@ This project is a collaboration with UX designer [Allison Straus](https://www.al
 ## Built With
 * [WordPress](https://wordpress.org/) / PHP 
 * [Shimmer theme](https://support.almondandwhite.com/theme-documentation/shimmer-theme/)
-* Additional CSS 
+* Additional CSS (contained in this repo)
 
 
 ## Mocks by Allison Straus:
