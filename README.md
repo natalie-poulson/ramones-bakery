@@ -1,5 +1,5 @@
 # Website for Ramone's Bakery & Cafe
-This project is a collaboration with UX designer [Allison Straus](https://www.allisonstraus.com/). Together, we are creating a custom, responsive WordPress website for [Ramone's Bakery & Cafe](https://www.facebook.com/ramonesbakeryandcafe). It's still in development. 
+This project is a collaboration with UX designer [Allison Straus](https://www.allisonstraus.com/). Using her designs, I'm creating a custom, responsive WordPress website for [Ramone's Bakery & Cafe](https://www.facebook.com/ramonesbakeryandcafe). It's still in development. 
 
 ## Built With
 * [WordPress](https://wordpress.org/) / PHP 
